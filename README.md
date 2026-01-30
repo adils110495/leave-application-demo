@@ -6,11 +6,10 @@ https://leave-application.vercel.app
 📌 Core Features
 
   🔐 Authentication & Authorization
-    <br>
     -  Admin Login
-    <br>
+    
     -  Employee Login
-    <br>
+
     -  Role-Based Access Control (RBAC)
 
   📝 Leave Management
