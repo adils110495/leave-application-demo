@@ -53,20 +53,6 @@ https://leave-application.vercel.app
       <br>
       -  Bootstrap
 
-    🗄️ Database
-      <br>
-      -  MySQL
-
-    🧰 Tools & Deployment
-      <br>
-      - Docker
-      <br>
-      - Git & GitHub
-      <br>
-      - Vscode
-      <br>
-      - Netlify
-
 ## 📸 Screenshots
 
 
