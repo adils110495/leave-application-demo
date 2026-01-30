@@ -6,6 +6,7 @@ https://leave-application.vercel.app
 📌 Core Features
 
   🔐 Authentication & Authorization
+    <br>
     -  Admin Login
     -  Employee Login
     -  Role-Based Access Control (RBAC)
