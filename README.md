@@ -23,17 +23,17 @@ https://leave-application.vercel.app
    <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Real-time Leave Status Updates
 
-  💰 Salary Management
-    <br>
-    -  Automatic Salary Generation on Last Day of Month
-    <br>
-    -  Salary Calculation Based on Approved Leaves
-    <br>
-    -  Monthly Salary Records Stored in Database
-    <br>
-    -  Salary History View for Employees
-    <br>
-    -  Salary generation is handled via a scheduled cron job in the backend.
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝💰 Salary Management
+   <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Automatic Salary Generation on Last Day of Month
+   <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Salary Calculation Based on Approved Leaves
+   <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Monthly Salary Records Stored in Database
+   <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Salary History View for Employees
+   <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Salary generation is handled via a scheduled cron job in the backend.
 
   📊 Dashboard Overview
     <br>
