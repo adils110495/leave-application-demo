@@ -57,15 +57,13 @@ https://leave-application.vercel.app
       -  MySQL
 
   🧰 Tools & Deployment
-
-    🧰 Tools & Deployment
-      <br>
+  <br>
       - Docker
-      <br>
+  <br>
       - Git & GitHub
-      <br>
+  <br>
       - Vscode
-      <br>
+  <br>
       - Netlify
 
 ## 📸 Screenshots
