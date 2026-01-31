@@ -40,7 +40,7 @@
                   -    Vscode
                   -    Netlify
 
-📸 Screenshots
+📸 Screenshots (See Below)
 
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
