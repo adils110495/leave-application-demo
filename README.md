@@ -32,8 +32,10 @@
                   -    React.js
                   -    Node.js
                   -    Bootstrap
+                  
          🗄️ Database
                   -    MySQL
+                  
          🧰 Tools & Deployment
                   -    Docker
                   -    Git & GitHub
